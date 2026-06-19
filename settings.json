@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Futuremc-61Wj.aternos.me",
+    "ip": "dassie.aternos.host",
     "port": 45288,
     "version": "1.21.1",
     "try-creative": false
