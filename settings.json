@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "pizza",
   "bot-account": {
     "username": "Slobot00",
     "password": "ilovepozza",
     "type": "offline"
   },
   "server": {
-    "ip": "Futuremc-61Wj.aternos.me",
+    "ip": "Futuremc-61Wj.aternos.me:45288",
     "port": 45288,
     "version": "",
     "try-creative": false
