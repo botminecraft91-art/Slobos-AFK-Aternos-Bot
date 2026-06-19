@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Futuremc-61Wj.aternos.me:45288",
+    "ip": "Futuremc-61Wj.aternos.me",
     "port": 45288,
     "version": "",
     "try-creative": false
